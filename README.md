@@ -23,5 +23,7 @@ CatBoost добавил в документацию информацию о PRAU
 <img width="914" height="420" alt="image" src="https://github.com/user-attachments/assets/5d6f5c53-86e2-4b95-806e-269847f435b6" />
 
 В таблицу пока добавить забыли.
+
 <img width="473" height="874" alt="image" src="https://github.com/user-attachments/assets/27fb270e-2e4b-4869-959e-0afea20b6bd4" />
+
 А я уж решил что метрику не добавляют в документацию, от того что она иногда врёт.  
